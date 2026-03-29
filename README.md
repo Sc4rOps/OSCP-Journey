@@ -7,8 +7,8 @@
 
 ## Machine List
 
-| # | Machine | Platform | OS | Difficulty | Key Technique | Status |
-|---|---------|----------|----|------------|---------------|--------|
+| # | Machine | Platform | OS | Difficulty | Key Technique / Attack Path | Status |
+|---|---------|----------|----|------------|-----------------------------|--------|
 | 01 | [Twiggy](./01-Twiggy/writeup.md) | PG Practice | Linux | Easy | | |
 | 02 | [Bratarina](./02-Bratarina/writeup.md) | PG Practice | Linux | Easy | | |
 | 03 | [ClamAV](./03-ClamAV/writeup.md) | PG Practice | Linux | Easy | | |
