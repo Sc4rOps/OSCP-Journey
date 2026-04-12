@@ -1,0 +1,8 @@
+.github_token
+*.zip
+*.tar.gz
+nmap.txt
+*.php
+*.php.jpg
+*.exe
+*.elf
